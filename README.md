@@ -32,7 +32,9 @@ For example, your own research into a technique or a (technical) analysis of a w
 
 Week 1:
     [summary dept](https://github.com/RowinRuizendaal/weekly-nerd-2021/wiki/summary-depht)
+    
     [summary labelA](https://github.com/RowinRuizendaal/weekly-nerd-2021/wiki/LabelA)
+    
     [Awnser question](https://github.com/RowinRuizendaal/weekly-nerd-2021/wiki/week1-question)
 
 
