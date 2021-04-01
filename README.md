@@ -64,9 +64,7 @@ In the post [What is a good frontend developer] (https://css-tricks.com/what-mak
 
 #### Ask
 
- _under construction_
-<! - Question about soft skills ->
-<! - Ask about men / women / inclusive ->
+You have learned how to make accessible websites. An important starting point for a digital designer is to ensure that a website can be used by everyone. Yet many development companies themselves are not 'inclusive'. The tech industry also consists largely of the same type of people and then tests their websites with the same types again, resulting in stereotyping, prejudices and biased outcomes. Do you recognize this as a problem? Should this change? What kind of team do you like to see yourself working in? Read the article On racism and sexism in branding, user interface, and tech and the project Working towards a more inclusive design scene in The Netherlands and use it to answer the question.
 
 ### Weekly Nerd # 3
 
